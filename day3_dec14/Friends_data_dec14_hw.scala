@@ -1,3 +1,5 @@
+//https://databricks-prod-cloudfront.cloud.databricks.com/public/4027ec902e239c93eaaa8714f173bcfc/812815359225522/877143597966234/4471544797058022/latest.html
+
 // Databricks notebook source
 val rawdata=sc.textFile("/FileStore/tables/FriendsData.csv")
 
